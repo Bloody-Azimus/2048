@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Panel.qml</file>
+        <file>Case.qml</file>
+        <file>Command.qml</file>
+        <file>Win.qml</file>
+        <file>Lose.qml</file>
+        <file>Tempwin.qml</file>
+        <file>NewGameButton.qml</file>
+        <file>Score.qml</file>
+    </qresource>
+</RCC>
